@@ -1,7 +1,8 @@
 # Windows-Server-Active-Directory-Lab
 Designed and implemented a Windows Server Active Directory lab using Microsoft Azure, including domain controller promotion, DNS configuration, and domain-joined clients. Practiced core IT support workflows such as user provisioning, password resets, and access management.
 Active Directory Lab – Windows Server Project
-<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/50cb2e71-002f-4528-a9a3-4f1daea5b5b3" />
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/af618407-6608-4b33-8db3-3eeab8d82899" />
+
 
 Overview
 This project demonstrates the deployment of a Windows Server Active Directory environment,

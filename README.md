@@ -32,6 +32,9 @@ The following tasks were completed as part of this project:
 ## Screenshots
 <img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/be0bc534-04f4-4c13-86bb-959126042053" />
 <img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/54f8d7cd-1c6a-4a56-a06b-10689d40d8ee" />
+<img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/e3d02d61-fb05-47a7-8e26-c8eb34b5492e" />
+<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/6f758c31-7689-47fa-9f1f-82b4dbb9a9f4" />
+<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/285ed997-0c60-4982-90d8-2710a868dbdf" />
 
 Screenshots documenting the lab setup and configuration can be added here.
 
